@@ -1,0 +1,8 @@
+Enter length, breadth and height as input. After that we first call the volume method. 
+From volume method we call area method and from area method we call perimeter method. 
+Hence we get perimeter, area and volume of cuboid as output.
+
+
+for parimeter use this : 12 * (l + b)
+for area use this :      6 * l * b
+for volume use this:  l * b * h
